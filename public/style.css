@@ -1,0 +1,18 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body{
+    width:100vw;
+    height:100vh;
+    background: #999;
+}
+
+#screen{
+    width:700px;
+    height:580px;
+    border: 1px solid #111;
+    margin:10px;
+}
